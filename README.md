@@ -11,6 +11,7 @@ All programs were tested successfully in Google Colab and standard Python enviro
 
 **File:**  
   alexnet.py
+  
 **Modifications:**
 - Converted the Sequential model into a subclass of `tf.keras.Model` for better flexibility.  
 - Added Batch Normalization after convolutional layers to improve training stability.  
@@ -60,7 +61,7 @@ To make the code self-contained, improve prediction accuracy, and include visual
 ## Program 4 – CNN Model (Face Mask Detection)
 
 **File:**  
-  with/withoutmask.py
+  mask_withoutmask.py
 
 **Modifications:**
 - Replaced the Cats vs Dogs dataset with a real-world Face Mask Detection dataset (downloaded automatically).  
