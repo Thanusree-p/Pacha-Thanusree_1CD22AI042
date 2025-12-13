@@ -1,7 +1,7 @@
 # Deep Learning and Reinforcement Learning  
 
 ## Overview
-This repository contains all six programs for the Deep Learning and Reinforcement Learning (DLRL) assignment.   
+This repository contains all six programs for the Deep Learning and Reinforcement Learning (DLRL).   
 The main focus of the modifications was to improve code structure, training performance, and visualization while keeping the original logic intact.  
 All programs were tested successfully in Google Colab and standard Python environments.
 
