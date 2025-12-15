@@ -23,6 +23,7 @@ All programs were tested successfully in Google Colab and standard Python enviro
 To make the model easier to adapt for different datasets and improve training efficiency and generalization.
 
 https://colab.research.google.com/drive/1OhhDUb43Vy-Nr2LaIykdxp03DA8jg79N
+
 ---
 
 ## Program 2 – Q-Learning (Deep Reinforcement Learning)
@@ -41,6 +42,7 @@ https://colab.research.google.com/drive/1OhhDUb43Vy-Nr2LaIykdxp03DA8jg79N
 To make the Q-learning algorithm more realistic, mathematically correct, and easy to understand while maintaining modularity.
 
 https://colab.research.google.com/drive/1FzPVZBUWWBjFXH7BSSjZvBmGPebA_sd5
+
 ---
 
 ## Program 3 – LSTM Time Series Forecasting
@@ -79,6 +81,7 @@ https://colab.research.google.com/drive/1zZyJMGXJJGgrp4jv9cQx-JuJsfD5fCTq
 To demonstrate a real-world CNN application using transfer learning and data augmentation for improved generalization.
 
 https://colab.research.google.com/drive/1mU50FxcUd1GTnI0C4JIRDhC1jI9Kcp_g
+
 ---
 
 ## Program 5 – RNN Text Generation
