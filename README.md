@@ -22,6 +22,7 @@ All programs were tested successfully in Google Colab and standard Python enviro
 **Reason:**  
 To make the model easier to adapt for different datasets and improve training efficiency and generalization.
 
+https://colab.research.google.com/drive/1OhhDUb43Vy-Nr2LaIykdxp03DA8jg79N
 ---
 
 ## Program 2 – Q-Learning (Deep Reinforcement Learning)
@@ -39,6 +40,7 @@ To make the model easier to adapt for different datasets and improve training ef
 **Reason:**  
 To make the Q-learning algorithm more realistic, mathematically correct, and easy to understand while maintaining modularity.
 
+https://colab.research.google.com/drive/1FzPVZBUWWBjFXH7BSSjZvBmGPebA_sd5
 ---
 
 ## Program 3 – LSTM Time Series Forecasting
@@ -55,6 +57,8 @@ To make the Q-learning algorithm more realistic, mathematically correct, and eas
 
 **Reason:**  
 To make the code self-contained, improve prediction accuracy, and include visualization and future trend forecasting.
+
+https://colab.research.google.com/drive/1zZyJMGXJJGgrp4jv9cQx-JuJsfD5fCTq
 
 ---
 
@@ -74,6 +78,7 @@ To make the code self-contained, improve prediction accuracy, and include visual
 **Reason:**  
 To demonstrate a real-world CNN application using transfer learning and data augmentation for improved generalization.
 
+https://colab.research.google.com/drive/1mU50FxcUd1GTnI0C4JIRDhC1jI9Kcp_g
 ---
 
 ## Program 5 – RNN Text Generation
@@ -90,6 +95,8 @@ To demonstrate a real-world CNN application using transfer learning and data aug
 
 **Reason:**  
 To improve text coherence, reduce repetition, and make the generator produce more human-like sequences.
+
+https://colab.research.google.com/drive/1f1AdrVUcuxB1Pe0bXhP5I6OgbmOPpwLy
 
 ---
 
@@ -108,3 +115,6 @@ To improve text coherence, reduce repetition, and make the generator produce mor
 
 **Reason:**  
 To make the game fully functional, bug-free, and interactive while maintaining reinforcement learning behavior.
+
+https://colab.research.google.com/drive/1eh2ikSkm3_eFi2RxoyolzRUQwBre8SMc
+
